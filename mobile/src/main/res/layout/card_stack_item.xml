@@ -5,7 +5,8 @@
     android:id="@+id/layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_gravity="center_horizontal|top">
+    android:layout_gravity="center_horizontal|top"
+    android:padding="16dp">
 
     <!--in center of card it's display the number of CardStack-->
     <TextView
@@ -15,7 +16,8 @@
         android:gravity="center"
         android:textColor="@android:color/black"
         android:textSize="40sp"
-        tools:text="@string/hello_world" />
+        tools:text="@string/hello_world"
+        android:fontFamily="cursive"/>
 
 
     <!--  this view will indicate to user that you are swapping this card into left side-->

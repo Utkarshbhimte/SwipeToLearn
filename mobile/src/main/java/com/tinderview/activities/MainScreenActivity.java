@@ -214,11 +214,11 @@ public class MainScreenActivity extends AppCompatActivity {
         public CharSequence getPageTitle(int position) {
             switch (position) {
                 case 0:
-                    return "Connect";
+                    return "Study";
                 case 1:
-                    return "Discover";
+                    return "Favourites";
                 case 2:
-                    return "Chat";
+                    return "LeaderBoard";
             }
             return null;
         }
