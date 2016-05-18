@@ -1,35 +1,23 @@
-TinderView
+SwipeToLearn
 ========
 
-Created A Simple and Beautiful Tinder like card deck & Captain Train like toolbar.
+A Basic App for GRE Aspirants to have as an aid to improve vocabulary and with simple interface.
 
-This is heavily based on [AndroidSwipeableCardStack](https://github.com/wenchaojiang/AndroidSwipeableCardStack), wenchaojiang has written the library very well but i faced a lot of difficulty integrating it & that's the reason i built this app so that you dont waste time. Use this repo as a base for your app & build on top :).
+There will be a Leaderboard added soon..
 
-API 16 and UP. (Support for API 16 is now live thanks to [#4] (https://github.com/GadgetCheck/TinderView/pull/4)) 
+Created with A Simple and Beautiful Tinder like card deck & Captain Train like toolbar by Aradh Pillai.
 
-In Action 
-=========
-
-[Click here to watch the app in action on youtube!](https://youtu.be/ccnkq9HmyVY)
-
-![Screen 3](http://s4.postimg.org/x9bamw3yl/image.png)![Screen1](http://s4.postimg.org/7b7oguyh9/image.png)
-
-<a href="https://play.google.com/store/apps/details?id=com.tinderview&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1"><img alt="Get it on Google Play" src="http://s22.postimg.org/stmzfw631/en_play_badge.png" /></a>
-
-The demo is now available, dont forget to give it 5 stats if it helped you. Oh if you can contribute to development of the library in anyway i would love to see your pull request. 
-
-Happy Coding! 
 
 Developed By
 ============
 
-* Aradh Pillai 
+* Utkarsh Bhimte
 
 
 License
 =======
 
-    Copyright 2015 Aradh Pillai
+    Copyright 2015 Utkarsh Bhimte
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
